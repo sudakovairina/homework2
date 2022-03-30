@@ -28,7 +28,7 @@ def random_predict(number: int = 1) -> int:
     return count
 
 #print(random_predict(9))
-
+#
 def score_game(random_predict) -> int:
     """Считаем среднее количество попыток, за которое компьютер угадывает число
     
